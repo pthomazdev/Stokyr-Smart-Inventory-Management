@@ -117,4 +117,4 @@ Atualmente sendo desenvolvido como projeto de portfólio para aprofundamento em:
 
 # 👨‍💻 Autor
 
-Desenvolvido por Pablo Augusto.
+Desenvolvido por Pablo Thomaz.
